@@ -26,7 +26,7 @@ wavesurfer.init({
 
 
 //загружаем нужную песню
-wavesurfer.load("29-bruh.mp3");
+wavesurfer.load("you-and-i.mp3");
 
 //play and pause a player
 playPause.addEventListener("click", function (e) {
