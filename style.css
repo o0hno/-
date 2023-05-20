@@ -363,6 +363,10 @@
   color: #9A9A9B;
 }
 
+.mob-btn {
+  display: none;
+}
+
 @media (max-width: 1120px) {
   .container {
     padding: 0 20px;
@@ -376,6 +380,10 @@
   .card-about {
     align-self: flex-end;
     margin-top: 60px;
+  }
+
+  .audio-container {
+    order: -1;
   }
   .course-row {
     flex-wrap: wrap;
@@ -475,6 +483,3 @@
 }
 
 
-.mob-btn {
-  display: none;
-}
