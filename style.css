@@ -23,7 +23,7 @@
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    background-color: #f56a65;
+    background-color: rgb(34, 145, 209);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -52,7 +52,7 @@
 }
 .header-subtitle-text {
     display: inline-block;
-    border-left: 1px solid #1e87c4;
+    border-left: 1px solid rgb(34, 145, 209);
     padding: 8px 0 8px 20px;
     color: #ffffff;
     font-weight: bold;
@@ -112,7 +112,7 @@
 }
 .about-subtitle-text {
     display: inline-block;
-    border-left: 1px solid #fff;
+    border-left: 1px solid rgb(34, 145, 209);
     padding: 8px 0 8px 20px;
     color: #fff;
     font-weight: bold;
@@ -142,7 +142,7 @@
 }
 .play-btn {
     display: flex;
-    background-color: blue;
+    background-color: rgb(34, 145, 209);
     width: 40px;
     height: 40px;
     align-items: center;
@@ -185,7 +185,7 @@
     justify-content: center;
     align-items: center;
     font-size: 1.25rem;
-    background-color: blue;
+    background-color: rgb(28, 3, 255);
     color: white;
     cursor: pointer;
 }
