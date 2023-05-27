@@ -23,7 +23,7 @@
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    background-color: #fff;
+    background-color: #f56a65;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -52,9 +52,9 @@
 }
 .header-subtitle-text {
     display: inline-block;
-    border-left: 1px solid #8c8c8c;
+    border-left: 1px solid #1e87c4;
     padding: 8px 0 8px 20px;
-    color: #8c8c8c;
+    color: #ffffff;
     font-weight: bold;
     text-transform: uppercase;
     font-size: 13px;
@@ -64,12 +64,12 @@
 .header-title-text {
     font-size: 90px;
     font-weight: bold;
-    color: #fff;
+    color: #fff3f3;
     max-width: 620px;
     line-height: 1;
 }
 .join {
-    background-color: #febe02;
+    background-color: #7746af;
     position: absolute;
     right: 0;
     bottom: 0;
